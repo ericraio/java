@@ -1,11 +1,10 @@
 ========
-Octogit
+Java
 ========
 
-This repository has been created with Octogit.
-
-.. image:: http://myusuf3.github.com/octogit/assets/img/readme_image.png
+This is just a backup repo of random java files and test files
 
 Author
 ======
-Mahdi Yusuf (@myusuf3)
+Eric Raio (@ericraio)
+mailto: ericraio@gmail.com
